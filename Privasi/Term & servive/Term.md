@@ -1,1 +1,4 @@
-[Term](https://github.com/site/privacy)
+- [Term](https://github.com/site/privacy)
+- [Privasi](https://github.com/site/privacy)
+- [Security](https://github.com/security)
+- [Tolong](https://help.github.com/)
