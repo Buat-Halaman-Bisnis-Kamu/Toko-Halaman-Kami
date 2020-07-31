@@ -11,7 +11,12 @@ Gabung bersama toko kami Upload produk &amp; Bangun Bisnis bersama kami..
 
 - [ Toko Shop ](https://business.facebook.com/klikshop01/shop/?rt=19)
 
-- [Pesan](https://m.facebook.com/113984427014056/message/)
+# Layanan
+
+- [Pesan](https://m.me/tikakripik.tikakripik)
+
+# Tentang klikshop01
+
 - <p>Berikut adalah <a href="https://facebook.Com/klikshop01/" title="Halaman terbaik" target="_blank">Toko terbaik</a>.</p>
 # Insigth
 
