@@ -13,5 +13,7 @@
   <img src="/" alt="Image"> 
   <p>lihat Logo kami <a href="https://github.com/Buat-Halaman-Bisnis-Kamu/Toko-Halaman-Kami/blob/master/Image/images.jpeg">logo</a></p>
 </div>
+<div>
+<p>Toko<a href="https://facebook.com/klikshop01/">Link</a></p>
   </body>
 </html>
