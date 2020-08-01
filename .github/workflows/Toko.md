@@ -11,7 +11,7 @@
   <h2>A catchy subheading</h2>
   <p>Paragraph one</p> 
   <img src="/" alt="Image"> 
-  <p>Paragraph two with a <a href="https://github.com/Buat-Halaman-Bisnis-Kamu/Toko-Halaman-Kami/blob/master/Image/images.jpeg">hyperlink</a></p>
+  <p>lihat Logo kami <a href="https://github.com/Buat-Halaman-Bisnis-Kamu/Toko-Halaman-Kami/blob/master/Image/images.jpeg">logo</a></p>
 </div>
   </body>
 </html>
