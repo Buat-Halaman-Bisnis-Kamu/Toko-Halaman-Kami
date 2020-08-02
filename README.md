@@ -22,7 +22,7 @@ Gabung bersama toko kami Upload produk &amp; Bangun Bisnis bersama kami..
 <br>
 - <p>Berikut adalah <a href="https://facebook.Com/klikshop01/" title="Halaman terbaik" target="_blank">Toko terbaik</a>.</p>
 </br>
-- <p>Kirim Pesan Mesenjer<a href="https://m.me/tikakripik.tikakripik" title="kirim Pesan" target=_blank">Mesenjer</a>.<p/>
+- <p>Kirim Pesan Mesenjer<a href="https://m.me/tikakripik.tikakripik/" title="kirim Pesan" target="_blank">Mesenjer</a>.<p/>
 </br>
 
 # Insigth
@@ -36,4 +36,4 @@ Gabung bersama toko kami Upload produk &amp; Bangun Bisnis bersama kami..
 
 # Kunjungi Website Kami
 
-- [Lihat Web](https://mysuplayergoolshop.wordpres.com)
+[Lihat Web](https://mysuplayergoolshop.wordpres.com)
