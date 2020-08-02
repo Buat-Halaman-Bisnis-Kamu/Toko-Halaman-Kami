@@ -19,9 +19,12 @@ Gabung bersama toko kami Upload produk &amp; Bangun Bisnis bersama kami..
 - [Bagikan](https://m.facebook.com/sharer.php?sid=113984427014056&referrer=pages_feed&ref=bookmarks)
 - [Lihat Video](http://www.facebook.com/story.php?story_fbid=155486129530552&id=113984427014056&scmts=scwspsdd&extid=L4KSMYVC4qHujUH0)
 # Tentang klikshop01
-
+<br>
 - <p>Berikut adalah <a href="https://facebook.Com/klikshop01/" title="Halaman terbaik" target="_blank">Toko terbaik</a>.</p>
+</br>
 - <p>Kirim Pesan Mesenjer<a href="https://m.me/tikakripik.tikakripik" title="kirim Pesan" target=_blank">Mesenjer</a>.<p/>
+</br>
+
 # Insigth
 
 [insight](https://github.com/Buat-Halaman-Bisnis-Kamu/Toko-Halaman-Kami/blob/master/Facebook%20Insights%20Data%20Export%20-%20Agen%20Shop%20Online%20-%202020-07-29.csv)
