@@ -27,5 +27,5 @@ Gabung bersama toko kami Upload produk &amp; Bangun Bisnis bersama kami..
 
 <div>
 <div class="fb-customerchat"
- page_id="<PAGE_ID>">
+ page_id="<113984427014056>">
 </div>
