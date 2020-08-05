@@ -1,1 +1,4 @@
 $ gh pr checkout 1
+
+curl -i -X GET \
+ "https://graph.facebook.com/v8.0/https://facebook.com/klikshop01?access_token=EAAQPSHw0sREBANMFmvpDxzO5bg4QOjSMgHMzn6pGlnbx2R71IBD7NothDDaPF0w2Qhp0hIoVRYg6GNUWatMVBwVBZCLOJmIQ9BoHsszZCSnQHpNPss8jZBe4ZANXv6rUAe03rr4cZAOWXanQak7OFA28GYPeYnT7ojX7iYKZAXKdvIqdt1DJw6iMEr2FiYFJyiYGRbijpeKx9fvWcuuftA"
