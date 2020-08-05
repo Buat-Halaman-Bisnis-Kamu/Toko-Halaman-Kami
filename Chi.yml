@@ -2,3 +2,6 @@ $ gh pr checkout 1
 
 curl -i -X GET \
  "https://graph.facebook.com/v8.0/https://facebook.com/klikshop01?access_token=EAAQPSHw0sREBANMFmvpDxzO5bg4QOjSMgHMzn6pGlnbx2R71IBD7NothDDaPF0w2Qhp0hIoVRYg6GNUWatMVBwVBZCLOJmIQ9BoHsszZCSnQHpNPss8jZBe4ZANXv6rUAe03rr4cZAOWXanQak7OFA28GYPeYnT7ojX7iYKZAXKdvIqdt1DJw6iMEr2FiYFJyiYGRbijpeKx9fvWcuuftA"
+
+curl -i -X GET \
+ "https://graph.facebook.com/v8.0/https://github.com/subolshop?access_token=EAAIItuVBhesBAHLZBWSBBokDz9kr43Efj2snn7ReKbXq7YI0rtMTrmoI0azBlIji4CzUxN7p5vkMxRy5cZBJFNJNE2ZC1pCsk0eMk4hDJjP3hHHyAcqHtgOP8BqdszLtvPXVdyqx9MJK7ENtJe556HcJnZA6aOqiqSrGik8AIql89G6ArRFS2Pske8RPbnoZD"
