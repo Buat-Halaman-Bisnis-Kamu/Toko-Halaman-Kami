@@ -1,0 +1,11 @@
+GraphRequest request = GraphRequest.newPostRequest(
+  accessToken,
+  "/https://github.com/subolshop",
+  new JSONObject("{}"),
+  new GraphRequest.Callback() {
+    @Override
+    public void onCompleted(GraphResponse response) {
+      // Insert your code here
+    }
+});
+request.executeAsync();
