@@ -23,6 +23,7 @@ Gabung dengan forum Messenger untuk melakukan obrolan video
 - [Buat Lowongan](https://m.facebook.com/job_opening/composer/?page_id=113984427014056&source=page_more_menu&ref=bookmarks)
 - [Bagikan](https://m.facebook.com/sharer.php?sid=113984427014056&referrer=pages_feed&ref=bookmarks)
 - [Lihat Video](http://www.facebook.com/story.php?story_fbid=155486129530552&id=113984427014056&scmts=scwspsdd&extid=L4KSMYVC4qHujUH0)
+- [npm login --registry=](https://npm.pkg.github.com/)
 # Tentang klikshop01
 
 - <p>Berikut adalah <a href="https://facebook.Com/klikshop01/" title="Halaman terbaik" target="_blank">Toko terbaik</a>.</p>
