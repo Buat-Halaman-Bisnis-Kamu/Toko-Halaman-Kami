@@ -46,3 +46,5 @@ Gabung dengan forum Messenger untuk melakukan obrolan video
 <div>
 https://mysuplayergoolshop.wordpres.com
 </div>
+
+<div class="fb-page" data-href="https://www.facebook.com/klikshop01" data-tabs="timeline" data-width="120" data-height="60" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/klikshop01" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/klikshop01">Klik-Shop</a></blockquote></div>
