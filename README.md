@@ -10,7 +10,7 @@ Gabung bersama toko kami Upload produk &amp; Bangun Bisnis bersama kami..
 # Gabung Di forum Kami
 
 Gabung dengan forum Messenger untuk melakukan obrolan video
-[tidak perlu akun](https://msngr.com/3XDDyHuhZ3_ZgIbQ?funnel_session_id=_ab128ee6-7931-476d-9c8f-c6f4cf119473)
+[tidak perlu akun](https://npm.pkg.github.com/msngr.com/3XDDyHuhZ3_ZgIbQ?funnel_session_id=_ab128ee6-7931-476d-9c8f-c6f4cf119473)
 
 # Kunjungi Toko Kami
 
