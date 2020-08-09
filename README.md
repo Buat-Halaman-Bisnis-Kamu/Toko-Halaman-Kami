@@ -21,7 +21,7 @@ Gabung dengan forum Messenger untuk melakukan obrolan video
 
 # Layanan
 
-- [Pesan](https://m.me/tikakripik.tikakripik)
+- [Pesan](https://npm.pkg.github.com/m.me/tikakripik.tikakripik)
 - [Undang Teman](https://m.facebook.com/send_page_invite/?pageid=113984427014056)
 - [Buat Lowongan](https://m.facebook.com/job_opening/composer/?page_id=113984427014056&source=page_more_menu&ref=bookmarks)
 - [Bagikan](https://m.facebook.com/sharer.php?sid=113984427014056&referrer=pages_feed&ref=bookmarks)
