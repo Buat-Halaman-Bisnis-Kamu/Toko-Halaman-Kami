@@ -1,0 +1,3 @@
+$ git checkout "master"
+$ git merge --no-ff "Sub-Olahoop-patch-1"
+$ git push origin "master"
