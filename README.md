@@ -22,10 +22,10 @@ Gabung dengan forum Messenger untuk melakukan obrolan video
 # Layanan
 
 - [Pesan](https://npm.pkg.github.com/m.me/tikakripik.tikakripik)
-- [Undang Teman](https://m.facebook.com/send_page_invite/?pageid=113984427014056)
-- [Buat Lowongan](https://m.facebook.com/job_opening/composer/?page_id=113984427014056&source=page_more_menu&ref=bookmarks)
-- [Bagikan](https://m.facebook.com/sharer.php?sid=113984427014056&referrer=pages_feed&ref=bookmarks)
-- [Lihat Video](http://www.facebook.com/story.php?story_fbid=155486129530552&id=113984427014056&scmts=scwspsdd&extid=L4KSMYVC4qHujUH0)
+- [Undang Teman](https://npm.pkg.github.com/m.facebook.com/send_page_invite/?pageid=113984427014056)
+- [Buat Lowongan](https://npm.pkg.github.com/m.facebook.com/job_opening/composer/?page_id=113984427014056&source=page_more_menu&ref=bookmarks)
+- [Bagikan](https://npm.pkg.github.com/m.facebook.com/sharer.php?sid=113984427014056&referrer=pages_feed&ref=bookmarks)
+- [Lihat Video](http://npm.pkg.github.com/www.facebook.com/story.php?story_fbid=155486129530552&id=113984427014056&scmts=scwspsdd&extid=L4KSMYVC4qHujUH0)
 - [npm login --registry=](https://npm.pkg.github.com/m.me/tikakripik.tikakripik)
 # Tentang klikshop01
 
