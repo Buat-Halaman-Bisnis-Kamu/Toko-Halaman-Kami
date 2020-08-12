@@ -30,7 +30,7 @@ Gabung dengan forum Messenger untuk melakukan obrolan video
 # Tentang klikshop01
 
 - <p>Berikut adalah <a href="https://facebook.Com/klikshop01/" title="Halaman terbaik" target="_blank">Toko terbaik</a>.</p>
-- <p>Kirim Pesan Mesenjer<a href="https://m.me/tikakripik.tikakripik/" title="kirim Pesan" target="_blank">Mesenjer</a>.<p/>
+- [Kirim Pesan Mesenjer](https://m.me/tikakripik.tikakripik/)
 
 
 # Insigth
